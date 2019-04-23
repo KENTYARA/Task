@@ -8,7 +8,7 @@ package by.bntu.fitr.poisit.vladislavshapovalov.task4.model.entity;
 public class Matrix {
     
     public static final int DEFAULT_SIZE = 3;
-    private int [][] array;
+    private int[][] array;
    
     
     public Matrix(){
